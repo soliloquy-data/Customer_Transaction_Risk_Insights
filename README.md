@@ -49,9 +49,13 @@ This analysis builds structured visibility into those dimensions using descripti
 **Representative Visuals:**
 
 ![Monthly Transaction Trends](figs/monthly_trends.png)
+
 ![Top 5 Countries by Spend](figs/top5_countries.png)
+
 ![Transaction Amount by Gender & Category](figs/merchant_gender_avg.png)
-![Top 5 States by Fraud Ratio(figs/fraud_by_state.png)
+
+![Top 5 States by Fraud Ratio](figs/fraud_by_state.png)
+
 ![Credit Card Issuer Dynamic](figs/card_issuer_fraud.png)
 
 ---
@@ -85,3 +89,4 @@ This analysis builds structured visibility into those dimensions using descripti
 - Python, Pandas, NumPy  
 - Matplotlib, Seaborn  
 - Scipy (for correlation & significance tests)  
+
